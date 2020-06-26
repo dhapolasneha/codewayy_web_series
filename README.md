@@ -17,4 +17,9 @@ In this task I learnt Semantic tags, how to create tables, Forms etc.
 
 # Task - 3
 
+In this task a basic HTML page is created.
+
+
+# Task - 4
+
 In This task I created a HTML Page using some new tags such as summary and progress tags.
