@@ -1,0 +1,39 @@
+header
+{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-image: url(heading.jpg);
+    background-position: center;
+    background-size: cover;
+}
+button
+{
+    background-color: transparent;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    margin: 0 60px;
+}
+button:hover
+{
+    background-color: white;
+    color: blue;
+}
+img
+{
+    height: 100px;
+    width: 150px;
+    padding: 20px 20px 10px 20px;
+}
+aside
+{
+    background-color: #336600;
+    float: left;
+    height: 600px;
+}
+
+main
+{
+    margin-left: 200px;
+}
