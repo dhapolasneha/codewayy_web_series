@@ -1,0 +1,236 @@
+/*  Creating a navigation bar  */
+
+.Navbar
+{
+    background-color: #01295F;
+    padding: 20px;
+}
+.ele1
+{
+    padding-left: 100px;
+}
+.ele
+{
+    float: right;
+    padding-right: 50px;
+}
+.navelement
+{
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 10px;
+    display: inline;
+}
+
+
+/*   colouring the main background    */
+
+body
+{
+    background-color: rgb(219, 228, 236);
+}
+
+.main
+{
+    float: left;
+}
+
+/*      styling the 1st section     */
+
+#sec-1left
+{
+    padding: 50px;
+    margin: 0px 5px 5px 70px;
+    background-color: #96B8ED;
+    width: 25%;
+}
+
+#sec-1left #but-1
+{
+    background-color: transparent;
+    border-width: 1px;
+    border-color: #0c388a;
+    padding: 10px;
+    margin: 10px 10px 10px 120px;
+    font-size: 8px;
+    align-content: center;
+}
+#sec-1left #but-2
+{
+    background-color: transparent;
+    border-width: 1px;
+    border-color: #0c388a;
+    padding: 10px;
+    margin: 10px;
+    font-size: 8px;
+    align-content: center;
+}
+#sec-1left p
+{
+    font-size: 10px;
+    text-align: center;
+}
+#sec-1left h3
+{
+    text-align: center;
+}
+
+#sec-1right
+{
+    background-image: url(images/profile_picture.jpg);
+    height: 230px;
+    width: 58%;
+    margin: 0px;
+}
+
+
+
+/*  Styling the 2nd section   */
+
+
+#sec-2
+{
+    background-image: url(images/background.jpg);
+    background-position: top;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+    margin: 0px 70px 5px 70px;
+}
+
+#sec-2 p
+{
+    font-size: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+/*    styling the 3rd section    */
+
+#sec-3left 
+{
+    background-color: #96B8ED;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin: 0px 5px 5px 70px;
+    width: 650px;
+    height: 200px;
+}
+#sec-3left p
+{
+    font-size: 10px;
+}
+
+#sec-3right
+{
+    background-color: #96B8ED;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 70px 5px 5px;
+    width: 650px;
+    height: 200px;
+}
+#sec-3right p
+{
+    font-size: 10px;
+}
+
+/*    Styling the 4th section --  my services   */
+
+#sec-4
+{
+    background-color: #96B8ED;
+    padding: 50px;
+    margin: 0px 70px 5px 70px;
+    text-align: center;
+    width: 1250px;
+}
+
+
+/*     styling the 5th section      */
+
+
+.div-5 
+{
+    background-color: #96B8ED;
+    text-align: center;
+    width: 22%;
+    height: 170px;
+    margin: 0px 5px 5px 5px;
+    
+}
+
+#sec-5
+{
+    margin: 0px 5px 5px 70px;
+}
+
+
+
+/*    styling the 6th section - recent works */
+
+#sec-6
+{
+    background-color: #96B8ED;
+    padding: 50px;
+    margin: 0px 70px 5px 70px;
+    text-align: center;
+    width: 1250px;
+}
+
+
+/*    styling the 7th section - Alternate pictures   */
+
+.div-7
+{
+    background-color: #96B8ED;
+    text-align: center;
+    width: 22%;
+    height: 170px;
+    margin: 0px 5px 5px 5px;
+}
+#sec-7
+{
+    margin: 0px 5px 5px 70px;
+}
+.div-7 img
+{
+    padding-top: 10px;
+    height: 110px;
+    width: 160px;
+}
+
+/*   last section -- footer  */
+
+
+
+#foot-left
+{
+    background-color: #AEE5D8;
+    height: 350px;
+    width: 650px;
+    margin: 0px 5px 5px 70px;
+}
+#foot-right
+{
+    background-color: #96B8ED;
+    padding: 20px;
+    width: 660px;
+    margin: 0px 70px 5px 0px;
+}
+#foot-right h3
+{
+    text-align: center;
+}
+
+#foot-right button
+{
+    background-color: transparent;
+    border-width: 1px;
+    border-color: #0c388a;
+    padding: 7px;
+    margin: 10px;
+    font-size: 8px;
+}
