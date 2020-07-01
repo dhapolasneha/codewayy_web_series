@@ -79,6 +79,8 @@ body
 #sec-oneright
 {
     background-image: url(images/profile_picture.jpg);
+    background-position: bottom;
+    background-size: cover;
     height: 230px;
     width: 58%;
     margin: 0px;
@@ -209,7 +211,7 @@ body
 #foot-left
 {
     background-color: #AEE5D8;
-    height: 350px;
+    height: 380px;
     width: 650px;
     margin: 0px 5px 5px 70px;
 }
@@ -220,11 +222,20 @@ body
     width: 660px;
     margin: 0px 70px 5px 0px;
 }
+form
+{
+    padding-left: 20px;
+}
 #foot-right h3
 {
     text-align: center;
 }
-
+input
+{
+    width: 80%;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
 #foot-right button
 {
     background-color: transparent;
