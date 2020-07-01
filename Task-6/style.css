@@ -5,7 +5,7 @@
     background-color: #01295F;
     padding: 20px;
 }
-.ele1
+.element
 {
     padding-left: 100px;
 }
@@ -38,7 +38,7 @@ body
 
 /*      styling the 1st section     */
 
-#sec-1left
+#sec-oneleft
 {
     padding: 50px;
     margin: 0px 5px 5px 70px;
@@ -46,7 +46,7 @@ body
     width: 25%;
 }
 
-#sec-1left #but-1
+#sec-oneleft #but-one
 {
     background-color: transparent;
     border-width: 1px;
@@ -56,7 +56,7 @@ body
     font-size: 8px;
     align-content: center;
 }
-#sec-1left #but-2
+#sec-oneleft #but-two
 {
     background-color: transparent;
     border-width: 1px;
@@ -66,17 +66,17 @@ body
     font-size: 8px;
     align-content: center;
 }
-#sec-1left p
+#sec-oneleft p
 {
     font-size: 10px;
     text-align: center;
 }
-#sec-1left h3
+#sec-oneleft h3
 {
     text-align: center;
 }
 
-#sec-1right
+#sec-oneright
 {
     background-image: url(images/profile_picture.jpg);
     height: 230px;
@@ -89,7 +89,7 @@ body
 /*  Styling the 2nd section   */
 
 
-#sec-2
+#sec-two
 {
     background-image: url(images/background.jpg);
     background-position: top;
@@ -99,7 +99,7 @@ body
     margin: 0px 70px 5px 70px;
 }
 
-#sec-2 p
+#sec-two p
 {
     font-size: 10px;
     padding-left: 150px;
@@ -108,7 +108,7 @@ body
 
 /*    styling the 3rd section    */
 
-#sec-3left 
+#sec-threeleft 
 {
     background-color: #96B8ED;
     float: left;
@@ -118,12 +118,12 @@ body
     width: 650px;
     height: 200px;
 }
-#sec-3left p
+#sec-threeleft p
 {
     font-size: 10px;
 }
 
-#sec-3right
+#sec-threeright
 {
     background-color: #96B8ED;
     text-align: center;
@@ -132,14 +132,14 @@ body
     width: 650px;
     height: 200px;
 }
-#sec-3right p
+#sec-threeright p
 {
     font-size: 10px;
 }
 
 /*    Styling the 4th section --  my services   */
 
-#sec-4
+#sec-four
 {
     background-color: #96B8ED;
     padding: 50px;
@@ -152,7 +152,7 @@ body
 /*     styling the 5th section      */
 
 
-.div-5 
+.div-five
 {
     background-color: #96B8ED;
     text-align: center;
@@ -162,7 +162,7 @@ body
     
 }
 
-#sec-5
+#sec-five
 {
     margin: 0px 5px 5px 70px;
 }
@@ -171,7 +171,7 @@ body
 
 /*    styling the 6th section - recent works */
 
-#sec-6
+#sec-six
 {
     background-color: #96B8ED;
     padding: 50px;
@@ -183,7 +183,7 @@ body
 
 /*    styling the 7th section - Alternate pictures   */
 
-.div-7
+.div-seven
 {
     background-color: #96B8ED;
     text-align: center;
@@ -191,11 +191,11 @@ body
     height: 170px;
     margin: 0px 5px 5px 5px;
 }
-#sec-7
+#sec-seven
 {
     margin: 0px 5px 5px 70px;
 }
-.div-7 img
+.div-seven img
 {
     padding-top: 10px;
     height: 110px;
