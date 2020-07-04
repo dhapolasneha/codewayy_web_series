@@ -1,0 +1,86 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    padding-top: 0;
+}
+
+h1
+{
+    background-image: url(images/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 100px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+}
+ 
+.main
+{
+    width: 100%;
+}
+.main h2
+{
+    color: rgb(8, 8, 151);
+    font-size: 50px;
+    padding: 10px;
+}
+
+.main p
+{
+    color: black;
+    font-size: 15px;
+    padding: 10px;
+}
+.picture
+{
+    width: 100%;
+}
+.banner
+{
+    display: none;
+}
+
+@media (min-width: 768px)
+{
+    .banner
+    {
+        display: block;
+        width: 100%;
+    }
+    .main h2
+    {
+        color: rgb(8, 8, 151);
+        font-size: 30px;
+    }
+    .main p
+    {
+        color: black;
+        font-size: 20px;
+    }
+    .picture
+    {
+        width: 100%;
+    }
+}
+@media (min-width: 1000px)
+{
+    .banner
+    {
+        width: 100%;
+    }
+    .main
+    {
+        width: 50%;
+        float: right;
+    } 
+    .picture
+    {
+        width: 50%;
+        padding-top: 10px;
+        float: left;
+    }
+    
+}
